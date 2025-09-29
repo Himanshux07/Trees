@@ -24,6 +24,7 @@ class AVL {
   }
 
   public int height() {
+
     return height(root);
   }
   private int height(Node node) {
