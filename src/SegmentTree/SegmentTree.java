@@ -114,5 +114,4 @@ class SegmentTree {
         }
         return node.data;
     }
-  
 }
